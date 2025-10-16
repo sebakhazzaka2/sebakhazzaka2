@@ -6,7 +6,7 @@ Desarrollador Jr. con foco en \*\*HTML, CSS, JavaScript y Java (POO / Spring Boo
 
 Me gusta construir cosas simples, claras y accesibles, y publicarlas para que cualquiera las pueda probar.
 
-
+Idiomas : Español - Inglés - Portugues
 
 \- 📍 Montevideo, Uruguay  
 
@@ -85,6 +85,7 @@ Me gusta construir cosas simples, claras y accesibles, y publicarlas para que cu
 
 
 ---
+
 
 
 
