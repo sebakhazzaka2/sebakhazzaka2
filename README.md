@@ -30,19 +30,19 @@ Idiomas : Español - Inglés - Portugues
 
 | Gestión de Corredores (P1) | HTML, CSS, JS |  https://github.com/sebakhazzaka2/Gestion-Corredores | https://sebakhazzaka2.github.io/Gestion-Corredores/
 
-| Mercado de Frutas (P2) | HTML, CSS, JS | https://github.com/sebakhazzaka2/Mercado-Frutas | https://sebakhazzaka2.github.io/Mercado-Frutas
+| Mercado de Frutas (P2) | HTML, CSS, JS | https://github.com/sebakhazzaka2/Mercado-Frutas |
 
-| Autitos (P2, 2024) | HTML, CSS, JS | | https://github.com/sebakhazzaka2/Juego-Autitos | https://sebakhazzaka2.github.io/Juego-Autitos
+| Autitos (P2, 2024) | HTML, CSS, JS | | https://github.com/sebakhazzaka2/Juego-Autitos | 
 
-| Gatitos (P2) | HTML, CSS, JS | https://github.com/sebakhazzaka2/Juego-Gatitos | https://sebakhazzaka2.github.io/Juego-Gatitos
+| Gatitos (P2) | HTML, CSS, JS | https://github.com/sebakhazzaka2/Juego-Gatitos |
 
-| Ta-Te-Ti (Tic-Tac-Toe) | HTML, CSS, JS |  https://github.com/sebakhazzaka2/Juego-TicTacToe | https://sebakhazzaka2.github.io/Juego-TicTacToe
+| Ta-Te-Ti (Tic-Tac-Toe) | HTML, CSS, JS |  https://github.com/sebakhazzaka2/Juego-TicTacToe |
 
-| Gestión de Libros (Java, consola) | Java SE, POO | — |https://github.com/sebakhazzaka2/Gestion-Libros | https://sebakhazzaka2.github.io/Gestion-Libros
+| Gestión de Libros (Java, consola) | Java SE, POO | — |https://github.com/sebakhazzaka2/Gestion-Libros |
 
-| \*\*Portfolio Web (este sitio)\*\* | HTML, CSS, JS |  https://github.com/sebakhazzaka2/portfolio-sk | https://sebakhazzaka2.github.io/portfolio-sk
+| \*\*Portfolio Web (este sitio)\*\* | HTML, CSS, JS |  https://github.com/sebakhazzaka2/portfolio-sk |
 
-| \*\*API del Portfolio (backend)\*\* | Java, Spring Boot (REST) | — | https://github.com/sebakhazzaka2/portfolio-api | https://sebakhazzaka2.github.io/portfolio-api
+| \*\*API del Portfolio (backend)\*\* | Java, Spring Boot (REST) | — | https://github.com/sebakhazzaka2/portfolio-api |
 
 
 
@@ -85,6 +85,7 @@ Idiomas : Español - Inglés - Portugues
 
 
 ---
+
 
 
 
