@@ -30,13 +30,13 @@ Idiomas : Español - Inglés - Portugues
 
 | Gestión de Corredores (P1) | HTML, CSS, JS |  https://github.com/sebakhazzaka2/Gestion-Corredores | https://sebakhazzaka2.github.io/Gestion-Corredores/
 
-| Mercado de Frutas (P2) | HTML, CSS, JS | https://github.com/sebakhazzaka2/Mercado-Frutas |
+| Mercado de Frutas (P2) | Java SE, POO | https://github.com/sebakhazzaka2/Mercado-Frutas |
 
-| Autitos (P2, 2024) | HTML, CSS, JS | | https://github.com/sebakhazzaka2/Juego-Autitos | 
+| Autitos (P2, 2024) | Java consola | | https://github.com/sebakhazzaka2/Juego-Autitos | 
 
-| Gatitos (P2) | HTML, CSS, JS | https://github.com/sebakhazzaka2/Juego-Gatitos |
+| Gatitos (P2) | Java consola | https://github.com/sebakhazzaka2/Juego-Gatitos |
 
-| Ta-Te-Ti (Tic-Tac-Toe) | HTML, CSS, JS |  https://github.com/sebakhazzaka2/Juego-TicTacToe |
+| Ta-Te-Ti (Tic-Tac-Toe) | Java por consola|  https://github.com/sebakhazzaka2/Juego-TicTacToe |
 
 | Gestión de Libros (Java, consola) | Java SE, POO | — |https://github.com/sebakhazzaka2/Gestion-Libros |
 
@@ -85,6 +85,7 @@ Idiomas : Español - Inglés - Portugues
 
 
 ---
+
 
 
 
