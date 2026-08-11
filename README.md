@@ -1,7 +1,7 @@
 # Sebastián Khazzaka
 
 **Full-Stack Developer** · Java 21 + Spring Boot · Next.js 16 + React 19 · SaaS en producción
-
+[![Portfolio](https://img.shields.io/badge/github-repo-blue?logo=github)](https://sebakhazzaka-dev.vercel.app/#proyectos])
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastián_Khazzaka-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sebastian-khazzaka)
 [![Email](https://img.shields.io/badge/Email-contacto-D14836?style=flat&logo=gmail)](mailto:khazzaka2008@hotmail.com)
 
